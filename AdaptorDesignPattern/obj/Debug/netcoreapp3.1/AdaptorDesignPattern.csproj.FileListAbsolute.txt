@@ -1,0 +1,11 @@
+D:\CDP\Design Patterns Practice\AdaptorDesignPattern\AdaptorDesignPattern\obj\Debug\netcoreapp3.1\AdaptorDesignPattern.csprojAssemblyReference.cache
+D:\CDP\Design Patterns Practice\AdaptorDesignPattern\AdaptorDesignPattern\obj\Debug\netcoreapp3.1\AdaptorDesignPattern.AssemblyInfoInputs.cache
+D:\CDP\Design Patterns Practice\AdaptorDesignPattern\AdaptorDesignPattern\obj\Debug\netcoreapp3.1\AdaptorDesignPattern.AssemblyInfo.cs
+D:\CDP\Design Patterns Practice\AdaptorDesignPattern\AdaptorDesignPattern\bin\Debug\netcoreapp3.1\AdaptorDesignPattern.exe
+D:\CDP\Design Patterns Practice\AdaptorDesignPattern\AdaptorDesignPattern\bin\Debug\netcoreapp3.1\AdaptorDesignPattern.deps.json
+D:\CDP\Design Patterns Practice\AdaptorDesignPattern\AdaptorDesignPattern\bin\Debug\netcoreapp3.1\AdaptorDesignPattern.runtimeconfig.json
+D:\CDP\Design Patterns Practice\AdaptorDesignPattern\AdaptorDesignPattern\bin\Debug\netcoreapp3.1\AdaptorDesignPattern.runtimeconfig.dev.json
+D:\CDP\Design Patterns Practice\AdaptorDesignPattern\AdaptorDesignPattern\bin\Debug\netcoreapp3.1\AdaptorDesignPattern.dll
+D:\CDP\Design Patterns Practice\AdaptorDesignPattern\AdaptorDesignPattern\bin\Debug\netcoreapp3.1\AdaptorDesignPattern.pdb
+D:\CDP\Design Patterns Practice\AdaptorDesignPattern\AdaptorDesignPattern\obj\Debug\netcoreapp3.1\AdaptorDesignPattern.dll
+D:\CDP\Design Patterns Practice\AdaptorDesignPattern\AdaptorDesignPattern\obj\Debug\netcoreapp3.1\AdaptorDesignPattern.pdb
